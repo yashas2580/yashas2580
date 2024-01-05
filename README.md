@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashas2580
-- 👀 I’m interested in ...coding,android development
-- 🌱 I’m currently learning ... c++
+- 👀 I’m interested in ...coding,mobile app development
+- 🌱 I’m currently learning ... c++,react native.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
